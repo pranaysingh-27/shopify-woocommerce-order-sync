@@ -14,4 +14,4 @@
 **Tech Stack:**
 Shopify API • WooCommerce API • Make.com / Automation Tools • Webhooks • Data Synchronization
 
-<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/d9c6a614-7ab5-4712-a452-c3f8d8f70834" />
+<img width="1919" height="909" alt="Screenshot 2026-02-12 115745" src="https://github.com/user-attachments/assets/68d5aa26-b651-4dcb-9ea6-893e8e98d9dc" />
